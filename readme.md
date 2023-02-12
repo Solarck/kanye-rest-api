@@ -2,6 +2,6 @@
 
 Projeto feito apenas para intuito de estudos em consumo de api, criado para ser simples.
 
-Link da Api: https://kanye.rest/
+Link da demo : https://github.com/Solarck/kanye-rest-api
 
-Autor: https://github.com/ajzbc
+Api by: https://github.com/ajzbc
